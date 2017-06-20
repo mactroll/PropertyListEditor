@@ -1,5 +1,8 @@
 # PropertyListEditor
 
+* Added support for signed and unsigned .mobileconfiguration files and then selecting a cert to sign them when saving.
+* To do: pull from @mosen's excellent collection of sample configuration profiles and allow admins to edit
+
 PropertyListEditor is an example Mac app written to help me (and others) become more familiar with
 practical Swift. While I’ve read a lot about Swift and understand the language pretty well at an
 academic level, I’ve generally found the information online to be too limited, academic, and/or
