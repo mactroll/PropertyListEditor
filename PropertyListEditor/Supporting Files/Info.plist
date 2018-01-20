@@ -23,6 +23,20 @@
 			<key>NSDocumentClass</key>
 			<string>$(PRODUCT_MODULE_NAME).PropertyListDocument</string>
 		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>NoMADLicense</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>nomadlicense</string>
+			</array>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>NSDocumentClass</key>
+			<string>$(PRODUCT_MODULE_NAME).PropertyListDocument</string>
+		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
